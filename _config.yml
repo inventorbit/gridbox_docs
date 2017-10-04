@@ -4,7 +4,7 @@ email: hello@gridbox.io
 description: >
   Simplest Interface Builder for Bootstrap & Foundation.
 
-baseurl: "/gridbox_docs/" # the subpath of your site, e.g. /blog/
+baseurl: "https://inventorbit.github.io/gridbox_docs/" # the subpath of your site, e.g. /blog/
 url:https://inventorbit.github.io/gridbox_docs/ # the base hostname & protocol for your site
 git_address: https://github.com/aksakalli/jekyll-doc-theme
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
