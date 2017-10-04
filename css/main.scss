@@ -2,6 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Roboto:400,700,200|Open Sans:300,400');
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
@@ -32,14 +33,35 @@ body {
 }
 
 .navbar-brand{
+  font-family: 'Comfortaa',sans-serif;
   img{
     margin: -$navbar-padding-vertical 0;
     height: $navbar-height;
     padding: 10px 0;
   }
 }
-
-
+.btn-base{
+    top: 5px;
+    padding: 10px!important;
+    border-radius: 100px;
+    cursor: pointer;
+    color: #fff!important;
+    background: #CB356B;
+    background: -webkit-linear-gradient(to right, #BD3F32, #CB356B);
+    background: -webkit-linear-gradient(left, #BD3F32, #CB356B);
+    background: linear-gradient(to right, #BD3F32, #CB356B);
+    border-color: #CB356B;
+}
+.btn-base:hover{
+    color: #fff!important;
+    background-color: #b93162;
+    border-color: #b93162;
+    background: #b93162;
+    background: -webkit-linear-gradient(to right, #BD3F32, #b93162);
+    background: -webkit-linear-gradient(left, #BD3F32, #b93162);
+    background: linear-gradient(to right, #BD3F32, #b93162);
+    border-color: #b93162;
+}
 .header-container {
   background-color: black;
   background: url('../img/bg.jpg') no-repeat 50% 0;
