@@ -1,6 +1,6 @@
 ---
 title: The QuickStart Page
-permalink: docs/quickstart-page/
+permalink: /docs/quickstart-page/
 ---
 
 ## The QuickStart Page
