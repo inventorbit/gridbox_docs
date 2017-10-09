@@ -4,7 +4,7 @@ permalink: "/docs/home/"
 redirect_from: "/docs/index.html"
 ---
 
-Gridbox is a powerful, simplest drag and drop builder for CSS- frameworks (Presently it supports Bootstrap 4,3 and Foundation 6)  with integrated code editor to kick start your front-end projects 
+Gridbox is a Powerful Visual Interface Drag and Drop Builder for CSS Front-End Frameworks. Presently it supports <a href="https://getbootstrap.com" target="_blank">Bootstrap 3</a>, <a href="https://getbootstrap.com" target="_blank">Bootstrap 4</a> and <a href="https://foundation.zurb.com" target="_blank">Foundation 6</a> Framework.
 
 ## Getting started
 
