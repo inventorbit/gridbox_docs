@@ -1,11 +1,8 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
+  - quickstart-page
 
-- title: Examples
+- title: The Gridbox Editor
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - gridbox-editor
