@@ -1,6 +1,6 @@
 ---
 title: The Gridbox Editor
-permalink: "/docs/gridbox-editor/"
+permalink: /docs/gridbox-editor/
 ---
 
 The Gridbox  Editor is where the work happens! In Editor, you can drag and drop web framework components, write your code, and preview your project and download it.
