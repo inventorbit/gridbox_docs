@@ -8,6 +8,6 @@ Gridbox is a Powerful Visual Interface Drag and Drop Builder for CSS Front-End F
 
 ## Getting started
 
-First, <a href="https://www.gridbox.io/app/signup">create an account</a> or <a href="https://www.gridbox.io/app/login">Login</a> using your existing credentials It's free to get started.
+First, <a href="https://www.gridbox.io/app/signup">create an account</a> or <a href="https://www.gridbox.io/app/login">Login</a> using your existing credentials.It's free to get started.
 
 <img src="../../img/signup_form.png" alt="Gridbox QuickStart Page" />
