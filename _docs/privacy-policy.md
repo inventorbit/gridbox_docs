@@ -24,11 +24,12 @@ We collect information on our users in various ways, such as, by your voluntary 
 <li> general, non-personal, statistical information about the use of the Company Services, such as how many visitors visit a specific page, how long they stay on that page, and which hyperlinks, if any, they click on; </li>
 <li> third party information; </li>
 <li> cookies and other tracking technologies.	</li>
-<ol>
+</ol>
 
 ## How We Use Your Information
 
 We may use your information in a variety of ways, including: 
+
 <ol>
 <li> for internal review; </li>
 <li> to improve the Company website and Company Services;</li> 
