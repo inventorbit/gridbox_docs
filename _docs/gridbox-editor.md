@@ -9,7 +9,7 @@ The Gridbox  Editor is where the work happens! In Editor, you can drag and drop 
 
 ## UI basics
 
-When you open Gridbox Editor you will see a blank page with bars and controls all around. Let's briefly see the main functions:
+When you open Gridbox Editor you will see a blank page with bars and controls all around. Here are the main functions:
 <ol>
 <li>Toolbar: save/create pages, preview in the browser or toggle different device resolutions.</li>
 <li>Layout and Grid:  here you can find different layout elements like section, container, fluid container, grid rows(based on the framework).</li>
@@ -28,6 +28,7 @@ When you open Gridbox Editor you will see a blank page with bars and controls al
 ### Save 
 
 By default, every time whenever you make changes your project will be saved automatically and updates the preview. You can also manually save your project by clicking the "Save” Icon.
+
 You can also use the keyboard shortcut to save your current file (Command + S for Mac, CTRL + S for PC).
 
 ### Code Editor Menu 
@@ -41,6 +42,7 @@ Create a New HTML Page.
 ### Preview
 
 Using Preview you can see the changes you’ve made in the editor. You can choose which page of your Project to view from the Pages Panel in the left sidebar.
+
 You can also switch resolutions (Tablet, Mobile, Desktop, Tablet) to check the responsiveness of your site. 
 
 
@@ -51,6 +53,7 @@ You can also switch resolutions (Tablet, Mobile, Desktop, Tablet) to check the r
 ### Drag and Drop Layout Elements 
 
 Layout Elements Consists of Container, Fluid Container, Section and Grid System (Based on the framework you’ve chosen)
+
 To understand the Grid Component you need to understand how the grid system of Twitter Bootstrap/foundation works. 
 Grids are the core feature of bootstrap/foundation/ or any CSS frameworks and you will use them often.
 
@@ -73,7 +76,8 @@ You can drag and drop framework components like Button, Button Groups, Accordion
 <img src="../../img/element_properties.png" />
 
 
-Any time you select something in the canvas, you will notice that the ELEMENT Properties tab on the left is changing. Any components has specific fields that can be edited to customize its aspect, like  text, class name, color, etc... 
+Any time you select something in the canvas, you will notice that the ELEMENT Properties tab on the left is changing. Any component has specific fields that can be edited to customize its aspect, like  text, class name, color, etc... 
+
 Keep track of your selection in the canvas or using the component tree below the toolbar.
  
 ### Live Code Editor
@@ -81,13 +85,14 @@ Keep track of your selection in the canvas or using the component tree below the
 <img src="../../img/code_editor.png" />
 
 
-Every operation that you might do in the visual builder or with the left sidebar are generating clean and tested code. And where to access this code? - The Code Editor Panel
+Every operation that you might do in the visual builder or with the left sidebar is generating clean and tested code. And where to access this code? - The Code Editor Panel
  
 With Gridbox Code Editor you can do full document source editing also it allows you to add external stylesheets, web fonts, scripts, and more.
 
-In Code Editor - Where you can see three different menu items -  HTML, CSS, JS 
+In Code Editor - Where you can see three different menu items -  HTML, CSS and JS 
  
 By default, there will be one CSS(styles.css) and JS(index.js) file automatically created for you (You can’t create multiple CSS and JS Files but you can use CDN JS/CSS Libraries). 
+
 You can create multiple HTML files using "New” Menu.
  
 If you want to see the real preview as a website, just click on the preview icon in the top toolbar!
