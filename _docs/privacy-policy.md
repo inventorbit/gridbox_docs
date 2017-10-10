@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-permalink: /privacy-policy/
+permalink: /legal/privacy-policy/
 ---
 
 
