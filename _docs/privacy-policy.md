@@ -1,9 +1,8 @@
 ---
 title: Privacy Policy
-permalink: /docs/privacy-policy/
+permalink: /privacy-policy/
 ---
 
-# Privacy Policy
 
 Gridbox (“we,” “us” or “Gridbox”) provides services to users (“you” or the “user”) subject to this Privacy Policy (the “Privacy Policy”).
 The Privacy Policy applies to all services offered by the Company on its website, Gridbox.io (the “Gridbox Site”), and all associated sites linked to the Codepen Site by the Company, its subsidiaries and affiliates, including Company sites around the world (collectively, the “Company Services”). Defined terms used and not defined in this Privacy Policy are as set forth on the CodePen Terms of Service. 
