@@ -4,9 +4,11 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <div {% if page.url!='/legal/privacy-policy/' or page.url!='/legal/terms-of-service/'  %} class="col-md-4"> {% endif %}
+        {% if page.url!='/legal/privacy-policy/' or page.url!='/legal/terms-of-service/'  %}
+        <div  class="col-md-4" > 
           {% include docs_nav.html %}
         </div>
+        {% endif %}
 
         <div {% if page.url!='/legal/privacy-policy/' or page.url!='/legal/terms-of-service/'  %} class="col-md-8" {% else %} class="col-md-12"  {% endif %}>
             <h1>{{ page.title }}</h1>
