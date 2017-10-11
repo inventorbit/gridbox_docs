@@ -13,7 +13,7 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li {% if page.sectionid=='docs' and  page.url!='/legal/privacy-policy/' %} class="active" {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}">Docs</a></li>
+                <li {% if page.sectionid=='docs' and  page.url!='/legal/privacy-policy/' and  page.url!='/legal/terms-of-service/'  %} class="active" {% endif %}><a href="{{ "/docs/home/" | prepend: site.baseurl }}">Docs</a></li>
                 <!--<li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>-->
                 <li {% if page.url=='/legal/privacy-policy/' %} class="active" {% endif %}><a href="{{ "/legal/privacy-policy/" | prepend: site.baseurl }}">Privacy Policy</a></li>
                 <li {% if page.url =='/legal/terms-of-service/' %} class="active" {% endif %}><a href="{{ "/legal/terms-of-service/" | prepend: site.baseurl }}">Terms of Service</a></li>
