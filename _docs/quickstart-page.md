@@ -5,7 +5,7 @@ permalink: /docs/quickstart-page/
 
 The QuickStart page is the home screen of the Gridbox using which, you can either create projects from the scratch or clone existing projects.
 
-<img src="../../img/quickstart.png" alt="Gridbox Quickstart Page "/>
+<img src="../../img/quick_start_page.png" alt="Gridbox Quickstart Page "/>
 
 ## To Create a New Project 
 
